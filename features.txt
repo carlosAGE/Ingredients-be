@@ -1,0 +1,19 @@
+| **Feature**                                   | **Free Tier** | **Premium Tier** |
+| --------------------------------------------- | ------------- | ---------------- |
+| 🔍 Basic ingredient scan                      | ✅ Yes         | ✅ Yes            |
+| ⚠️ Warning label highlights (H/M/L)           | ✅ Yes         | ✅ Yes            |
+| 🧪 Ingredient breakdown (name, use, category) | ✅ Yes         | ✅ Yes            |
+| 📦 Scan history tracking                      | ❌ No          | ✅ Yes            |
+| 🎯 Risk heatmap visualization                 | ❌ No          | ✅ Yes            |
+| ⚖️ Product comparison                         | ❌ No          | ✅ Yes            |
+| 🧠 Explain Like I’m 5 mode                    | ❌ No          | ✅ Yes            |
+| 🧬 Dietary/Ethical filters:                   |               |                  |
+| – Vegan                                       | ❌ No          | ✅ Yes            |
+| – Halal                                       | ❌ No          | ✅ Yes            |
+| – Keto                                        | ❌ No          | ✅ Yes            |
+| – Gluten-Free                                 | ❌ No          | ✅ Yes            |
+| – Allergy Safe (custom flags)                 | ❌ No          | ✅ Yes            |
+| 🐰 Cruelty-Free check (when supported)        | ❌ No          | ✅ Yes            |
+| 📤 Exportable reports (JSON / PDF)            | ❌ No          | ✅ Yes            |
+| 🛡️ Save & auto-apply personal settings       | ❌ No          | ✅ Yes            |
+| 🗂️ Save favorites / “safe products” list     | ❌ No          | ✅ Yes            |

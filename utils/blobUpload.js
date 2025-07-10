@@ -18,6 +18,11 @@ const extractCredentials = () => {
 };
 
 exports.uploadBase64Image = async (base64Data) => {
+  // If caller omitted the data URI prefix, default to png
+  if (!base64Data.startsWith('data:')) {
+    base64Data = `data:image/png;base64,${base64Data.trim()}`;
+  }
+
   const matches = base64Data.match(/^data:(image\/\w+);base64,(.+)$/);
   if (!matches) throw new Error('Invalid base64 image format');
 
